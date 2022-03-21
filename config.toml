@@ -1,0 +1,4 @@
+baseURL = "http://kfggww.github.io/"
+languageCode = "en-us"
+title = "Blog of kfggww"
+theme = "ananke"
