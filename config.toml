@@ -1,20 +1,20 @@
 baseURL = "http://kfggww.github.io/"
 languageCode = "en-us"
-title = "Blog of kfggww"
+title = "Ju Nan's Blog"
 theme = "mainroad"
 paginate = "10" # Number of posts per page
 disqusShortname = "" # Enable Disqus comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Author] # Used in authorbox
-  name = "John Doe"
-  bio = "John Doe's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
+  name = "junan"
+  bio = "JuNan's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
   # avatar = "img/avatar.png"
 
 
 [Params]
-  description = "John Doe's Personal blog about everything" # Site description. Used in meta description
-  copyright = "John Doe" # Footer copyright holder, otherwise will use site title
+  description = "JuNan's Personal blog about everything" # Site description. Used in meta description
+  copyright = "JuNan" # Footer copyright holder, otherwise will use site title
   opengraph = true # Enable OpenGraph if true
   schema = true # Enable Schema
   twitter_cards = true # Enable Twitter Cards if true
@@ -47,8 +47,8 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Params.logo]
   image = "img/placeholder.png" # Logo image. Path relative to "static"
-  title = "Mainroad" # Logo title, otherwise will use site title
-  subtitle = "Just another site" # Logo subtitle
+  title = "JUNAN" # Logo title, otherwise will use site title
+  subtitle = "What I can not create, I do not understand." # Logo subtitle
 
 [Params.thumbnail]
   visibility = ["list", "post"] # Control thumbnail visibility
@@ -69,15 +69,15 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Params.widgets.social]
   # Enable parts of social widget
-  facebook = "username"
-  twitter = "username"
-  instagram = "username"
-  linkedin = "username"
-  telegram = "username"
-  github = "username"
-  gitlab = "username"
-  bitbucket = "username"
-  email = "example@example.com"
+  # facebook = "username"
+  # twitter = "username"
+  # instagram = "username"
+  # linkedin = "username"
+  # telegram = "username"
+  github = "kfggww"
+  # gitlab = "username"
+  # bitbucket = "username"
+  email = "kfggww@outlook.com"
 
 # Custom social links
 [[Params.widgets.social.custom]]
@@ -86,5 +86,5 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   # icon = "youtube.svg" # Optional. Path relative to "layouts/partials"
 
 [[Params.widgets.social.custom]]
-  title = "My Home Page"
+  title = "gitee"
   url = "https://example.com"
