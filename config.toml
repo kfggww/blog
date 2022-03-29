@@ -2,3 +2,6 @@ baseURL = "http://kfggww.github.io/"
 languageCode = "en-us"
 title = "junan's blog"
 theme = "smigle"
+
+[params]
+	Subtitle = "What I cannot create I do not understand"
